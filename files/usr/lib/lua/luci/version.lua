@@ -17,4 +17,4 @@ else
 end
 
 luciname    = "MMDVM"
-luciversion = "2023 2.22"
+luciversion = "2023 05.01"
